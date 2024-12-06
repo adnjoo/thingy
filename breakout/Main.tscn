@@ -1,7 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://dbxus5kyb7nsf"]
-
-[ext_resource type="Script" path="res://Snake.gd" id="1_3aq42"]
-
-[node name="Snake" type="Node2D"]
-position = Vector2(428, 188)
-script = ExtResource("1_3aq42")
