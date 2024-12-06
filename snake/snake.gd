@@ -1,7 +1,7 @@
 extends Node2D
 
 @export var speed = 4  # Movement speed
-@export var grid_size = 16  # Grid-based movement
+@export var grid_size = 4  # Grid-based movement
 
 var direction = Vector2.RIGHT  # Current movement direction
 var segments = []  # Holds all snake body parts
